@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "UtibeabasiDan 8/3/2024 16:27",
+	"super" : "Object",
+	"category" : "SparseMatrixCategory",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rowCount",
+		"columnCount",
+		"nonZeroElements"
+	],
+	"name" : "SparseMatrix",
+	"type" : "normal"
+}

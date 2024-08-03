@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PackageManifest",
+	"category" : "SparseMatrix-Tests-Manifest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ManifestSparseMatrixTests",
+	"type" : "normal"
+}

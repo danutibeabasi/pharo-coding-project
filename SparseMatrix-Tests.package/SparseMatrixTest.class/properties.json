@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "SparseMatrix-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"traditionalMatrix",
+		"expectedSparseMatrix"
+	],
+	"name" : "SparseMatrixTest",
+	"type" : "normal"
+}

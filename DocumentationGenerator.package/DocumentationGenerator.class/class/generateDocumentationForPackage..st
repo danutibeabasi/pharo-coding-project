@@ -1,4 +1,4 @@
-as yet unclassified
+generation
 generateDocumentationForPackage: packageName
     "documentation generation"
 

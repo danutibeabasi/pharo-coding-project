@@ -1,7 +1,6 @@
-as yet unclassified
+collection
 collectClassInformation: aClass
     "data collection"
-
     | superClass subClasses instVars methods |
     superClass := aClass superclass.
     subClasses := aClass subclasses.

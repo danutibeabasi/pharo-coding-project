@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "DocumentationGenerators-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"generator"
+	],
+	"name" : "DocumentationGeneratorTest",
+	"type" : "normal"
+}

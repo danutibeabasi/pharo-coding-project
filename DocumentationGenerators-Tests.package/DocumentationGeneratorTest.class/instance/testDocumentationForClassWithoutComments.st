@@ -1,4 +1,4 @@
-test
+tests
 testDocumentationForClassWithoutComments
     | documentation |
     documentation := DocumentationGenerator generateDocumentationForPackage: 'Zinc-Character-Encoding-Core'.

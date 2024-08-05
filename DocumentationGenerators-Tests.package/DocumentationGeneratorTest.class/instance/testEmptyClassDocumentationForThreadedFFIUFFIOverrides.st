@@ -1,4 +1,4 @@
-test
+tests
 testEmptyClassDocumentationForThreadedFFIUFFIOverrides
     | documentation |
     documentation := DocumentationGenerator generateDocumentationForPackage: 'ThreadedFFI-UFFI-Overrides'.

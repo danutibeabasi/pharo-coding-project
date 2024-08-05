@@ -94,8 +94,9 @@ traditionalMatrix := sparseMatrix toTraditionalMatrix.
 #### Example: Generating Documentation for a Package
 
 ```smalltalk
-| documentation |
-documentation := DocumentationGenerator generateDocumentationForPackage: 'Graphics-Display Objects'.
+| documentation packageName |
+packageName := 'YourPackageNameHere'. "Replace 'YourPackageNameHere' with the actual package name"
+documentation := DocumentationGenerator generateDocumentationForPackage: packageName.
 Transcript show: documentation.
 ```
 

@@ -42,6 +42,7 @@ To run tests for both packages, you can use the built-in test runner in Pharo:
 
 ## Usage
 
+
 ### SparseMatrixConversion
 
 #### Example: Converting Traditional to Sparse Matrix
@@ -98,6 +99,23 @@ traditionalMatrix := sparseMatrix toTraditionalMatrix.
 documentation := DocumentationGenerator generateDocumentationForPackage: 'YourPackageNameHere'.  <-- "Replace 'YourPackageNameHere' with the actual package name"
 Transcript show: documentation.
 ```
+
+### Using the Playground
+
+To experiment with the examples above, do the following:
+
+1. Open Pharo.
+2. Go to the Playground by selecting `Browse` -> `Playground` from the menu.
+3. Copy and paste the example code into the Playground.
+4. Select the code and press `Do it` (usually by pressing `Ctrl+D` or right-clicking and selecting `Do it`).
+
+This will execute the code, and you can see the results in the Transcript.
+
+### Viewing the Transcript
+
+1. Open the Transcript by selecting `Browse` -> `Transcript` from the menu.
+2. The expected output will be displayed here when you run the examples.
+
 
 ## Contributing
 

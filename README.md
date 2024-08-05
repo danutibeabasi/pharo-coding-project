@@ -125,8 +125,9 @@ This will execute the code, and you can see the results in the Transcript.
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## MIT License
+## License
 
+MIT License
 
 
 Copyright (c) 2024 Utibeabasi DAN
